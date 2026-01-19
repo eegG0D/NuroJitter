@@ -1,0 +1,12 @@
+﻿<Application x:Class="NeuroJitter.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Global Dark Theme -->
+        <SolidColorBrush x:Key="BackgroundBrush" Color="#1E1E1E"/>
+        <SolidColorBrush x:Key="SurfaceBrush" Color="#2D2D30"/>
+        <SolidColorBrush x:Key="TextBrush" Color="#E1E1E1"/>
+        <SolidColorBrush x:Key="AccentBrush" Color="#FF007ACC"/>
+    </Application.Resources>
+</Application>
