@@ -2,6 +2,12 @@
 
 **Neuro-Jitter** is a C# WPF application designed for the NeuroSky MindWave Mobile 2. It serves as a comprehensive biofeedback dashboard, analyzing signal jitter, spectral power bands, and cognitive states (eSense) in real-time.
 
+![Application Screenshot](Capture3.PNG)
+
+
+
+
+
 ---
 
 ## 🖥️ Features
